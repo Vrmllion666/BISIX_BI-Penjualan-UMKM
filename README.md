@@ -66,7 +66,7 @@ Total proyeksi 3 bulan: Rp 310,33 juta
 
 ## Anggota Tim
 - [Weka Surajati Sudanta] / [24051214079]
-- [Eno Tri Febriani] / [24051214087]
 - [MuhammadMirza Shahbaz Zaydan] / [24051214086]
+- [Eno Tri Febriani] / [24051214087]
 - [Rabbani Nabil Musyaffa] / [24051214097]
 - [Muhammad Nashrul Aziz] / [24051214159]
